@@ -29,7 +29,7 @@ Created develop branch.
 -Added _cell.php
 -Added Images.php which has methods for newest images and all images
     
-## Updated Components
+## Updated Components 
 
 
 
