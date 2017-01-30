@@ -1,3 +1,5 @@
+
+
 #Change Log
 
 Team membership:  AB (Captain) & KT (Mate)  
@@ -19,12 +21,15 @@ Created develop branch.
 - Added a welcome.php page into views
 
 ## *Version 1.2*
--Updated php files, removed many HTML elements
--As per tutorial, changed php functions for all controller files.
+- Updated php files, removed many HTML elements
+- As per tutorial, changed php functions for all controller files.
 
+## *Version 1.3*
+- Updated the welcome + gallery.php page to use the {thetable} instead of the html
+- Added database functionality in database.php
+- Added _cell.php
+- Added Images.php which has methods for newest images and all images
     
-## Updated Components
-
-
+## Updated Components 
 
 
