@@ -1,4 +1,5 @@
 
+
 #Change Log
 
 Team membership:  AB (Captain) & KT (Mate)  
@@ -30,7 +31,5 @@ Created develop branch.
 - Added Images.php which has methods for newest images and all images
     
 ## Updated Components 
-
-
 
 
