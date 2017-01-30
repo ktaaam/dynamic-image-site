@@ -19,8 +19,13 @@ Created develop branch.
 - Added a welcome.php page into views
 
 ## *Version 1.2*
--Updated php files, removed many HTML elements
--As per tutorial, changed php functions for all controller files.
+- Updated php files, removed many HTML elements
+- As per tutorial, changed php functions for all controller files.
+
+## *Version 1.3*
+- Added database functionality
+- updated gallery, welcome.php page to use the table
+
 
     
 ## Updated Components
